@@ -38,7 +38,7 @@ streamlit run kitap_takip.py
 kitap_takip.py         # Ana uygulama dosyası
 kitaplar.csv           # Kitap bilgileri burada saklanır (otomatik oluşur)
 
-
+---
 
 🧠 Öğrenilenler
 Bu projeyle birlikte şunları öğrendim:
@@ -62,4 +62,4 @@ Veri bilimi ve Python tutkunu 💖
 📧 edademirel13@gmail.com
 🔗 [LinkedIn (opsiyonel)](https://www.linkedin.com/in/edanur-demirel-b00644250/)
 🔗[ GitHub Profilim](https://github.com/22eda)
-
+---
