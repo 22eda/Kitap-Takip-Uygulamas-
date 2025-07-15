@@ -23,24 +23,10 @@ Bu uygulama, okuduğun kitapları kolayca kaydetmeni, filtrelemeni, puanlamanı 
 - Pandas
 - CSV
 
----
-
-## ⚙️ Kurulum
-
-1. Gerekli kütüphaneleri yükle:
-
-```bash
-pip install streamlit pandas
-
-## uygulama baslat
-streamlit run kitap_takip.py
-
-kitap_takip.py         # Ana uygulama dosyası
-kitaplar.csv           # Kitap bilgileri burada saklanır (otomatik oluşur)
 
 ---
 
-🧠 Öğrenilenler
+##🧠 Öğrenilenler
 Bu projeyle birlikte şunları öğrendim:
 
 Streamlit ile web arayüzü geliştirme
@@ -63,3 +49,17 @@ Veri bilimi ve Python tutkunu 💖
 🔗 [LinkedIn (opsiyonel)](https://www.linkedin.com/in/edanur-demirel-b00644250/)
 🔗[ GitHub Profilim](https://github.com/22eda)
 ---
+
+## ⚙️ Kurulum
+
+1. Gerekli kütüphaneleri yükle:
+
+```bash
+pip install streamlit pandas
+
+## uygulama baslat
+streamlit run kitap_takip.py
+
+kitap_takip.py         # Ana uygulama dosyası
+kitaplar.csv           # Kitap bilgileri burada saklanır (otomatik oluşur)
+
