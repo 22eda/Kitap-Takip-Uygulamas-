@@ -46,7 +46,7 @@ Veri bilimi ve Python tutkunu 💖
 
 📬 İletişim
 📧 edademirel13@gmail.com
-🔗 [LinkedIn (opsiyonel)](https://www.linkedin.com/in/edanur-demirel-b00644250/)
+🔗 [LinkedIn ](https://www.linkedin.com/in/edanur-demirel-b00644250/)
 🔗[ GitHub Profilim](https://github.com/22eda)
 ---
 
